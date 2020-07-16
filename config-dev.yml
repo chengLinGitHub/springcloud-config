@@ -1,2 +1,9 @@
 config:
     info: "master branch,springcloud/config-dev.yml version=1"
+##### 数据库配置
+datasource
+    ip: localhost
+datasource
+    username: root
+datasource
+    password: root
